@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+    --color-background:       #2D1230;      /* main background */
+    --color-primary:          #461F43;      /* subtle outlines */
+    --color-secondary:        #B7569A;      /* loading skeleton, placeholders, pop */
+    --color-tertiary:         #FFBF00;      /* yellow: ratings, logo, things that need pop */
+    --color-navbar:           #241023;      /* darkest shade, primarily used for navbar */
+    --color-text-primary:     #FFF;
+    --color-text-secondary:   #8F7F91;
+}
