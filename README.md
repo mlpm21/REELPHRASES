@@ -143,5 +143,3 @@ GET /api/search?q=its+not+your+fault&limit=5
 4. Porter stemming applied to query terms
 5. Results ranked by BM25 score (more negative = better match)
 6. Grouped by movie with top 3 matched lines per movie
-
-## Movie details integration + favorites
